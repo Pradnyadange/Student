@@ -17,3 +17,5 @@ student1 = Student("Pradnya", 101, 95)
 
 # Display details
 student1.display()
+def is_pass(self):
+    return self.marks >= 40
