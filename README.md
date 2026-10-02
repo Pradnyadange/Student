@@ -1,4 +1,5 @@
 # Student Management System
+Lab Assignment
 
 A simple Python program to demonstrate Object-Oriented Programming (OOP) using a `Student` class.
 
